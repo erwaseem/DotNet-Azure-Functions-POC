@@ -1,0 +1,11 @@
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\bin\Debug\net8.0\AzureFunctionPOC.Shared.deps.json
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\bin\Debug\net8.0\AzureFunctionPOC.Shared.dll
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\bin\Debug\net8.0\AzureFunctionPOC.Shared.pdb
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\obj\Debug\net8.0\AzureFunctionPOC.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\obj\Debug\net8.0\AzureFunctionPOC.Shared.AssemblyInfoInputs.cache
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\obj\Debug\net8.0\AzureFunctionPOC.Shared.AssemblyInfo.cs
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\obj\Debug\net8.0\AzureFunctionPOC.Shared.csproj.CoreCompileInputs.cache
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\obj\Debug\net8.0\AzureFunctionPOC.Shared.dll
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\obj\Debug\net8.0\refint\AzureFunctionPOC.Shared.dll
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\obj\Debug\net8.0\AzureFunctionPOC.Shared.pdb
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Shared\obj\Debug\net8.0\ref\AzureFunctionPOC.Shared.dll

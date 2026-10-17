@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E985179-1435-4EA7-A8B3-BEE43016E232}|AzureFunctionPOC.Api\\AzureFunctionPOC.Api.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.api\\functions\\productfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E985179-1435-4EA7-A8B3-BEE43016E232}|AzureFunctionPOC.Api\\AzureFunctionPOC.Api.csproj|solutionrelative:azurefunctionpoc.api\\functions\\productfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E985179-1435-4EA7-A8B3-BEE43016E232}|AzureFunctionPOC.Api\\AzureFunctionPOC.Api.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.api\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E985179-1435-4EA7-A8B3-BEE43016E232}|AzureFunctionPOC.Api\\AzureFunctionPOC.Api.csproj|solutionrelative:azurefunctionpoc.api\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E985179-1435-4EA7-A8B3-BEE43016E232}|AzureFunctionPOC.Api\\AzureFunctionPOC.Api.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E985179-1435-4EA7-A8B3-BEE43016E232}|AzureFunctionPOC.Api\\AzureFunctionPOC.Api.csproj|solutionrelative:azurefunctionpoc.api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E985179-1435-4EA7-A8B3-BEE43016E232}|AzureFunctionPOC.Api\\AzureFunctionPOC.Api.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.api\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E985179-1435-4EA7-A8B3-BEE43016E232}|AzureFunctionPOC.Api\\AzureFunctionPOC.Api.csproj|solutionrelative:azurefunctionpoc.api\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5B0426-BD7C-42EA-A9B4-8A9D0EC439E5}|AzureFunctionPOC.Application\\AzureFunctionPOC.Application.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5B0426-BD7C-42EA-A9B4-8A9D0EC439E5}|AzureFunctionPOC.Application\\AzureFunctionPOC.Application.csproj|solutionrelative:azurefunctionpoc.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5B0426-BD7C-42EA-A9B4-8A9D0EC439E5}|AzureFunctionPOC.Application\\AzureFunctionPOC.Application.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5B0426-BD7C-42EA-A9B4-8A9D0EC439E5}|AzureFunctionPOC.Application\\AzureFunctionPOC.Application.csproj|solutionrelative:azurefunctionpoc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEB46CC-D274-49BE-91D3-9856BCD3EEBD}|AzureFunctionPOC.Infrastructure\\AzureFunctionPOC.Infrastructure.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEB46CC-D274-49BE-91D3-9856BCD3EEBD}|AzureFunctionPOC.Infrastructure\\AzureFunctionPOC.Infrastructure.csproj|solutionrelative:azurefunctionpoc.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E985179-1435-4EA7-A8B3-BEE43016E232}|AzureFunctionPOC.Api\\AzureFunctionPOC.Api.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E985179-1435-4EA7-A8B3-BEE43016E232}|AzureFunctionPOC.Api\\AzureFunctionPOC.Api.csproj|solutionrelative:azurefunctionpoc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2041B4E2-C114-4D3C-9AE9-99462EC25188}|AzureFunctionPOC.Shared\\AzureFunctionPOC.Shared.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.shared\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2041B4E2-C114-4D3C-9AE9-99462EC25188}|AzureFunctionPOC.Shared\\AzureFunctionPOC.Shared.csproj|solutionrelative:azurefunctionpoc.shared\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEB46CC-D274-49BE-91D3-9856BCD3EEBD}|AzureFunctionPOC.Infrastructure\\AzureFunctionPOC.Infrastructure.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.infrastructure\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEB46CC-D274-49BE-91D3-9856BCD3EEBD}|AzureFunctionPOC.Infrastructure\\AzureFunctionPOC.Infrastructure.csproj|solutionrelative:azurefunctionpoc.infrastructure\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEB46CC-D274-49BE-91D3-9856BCD3EEBD}|AzureFunctionPOC.Infrastructure\\AzureFunctionPOC.Infrastructure.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.infrastructure\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEB46CC-D274-49BE-91D3-9856BCD3EEBD}|AzureFunctionPOC.Infrastructure\\AzureFunctionPOC.Infrastructure.csproj|solutionrelative:azurefunctionpoc.infrastructure\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEB46CC-D274-49BE-91D3-9856BCD3EEBD}|AzureFunctionPOC.Infrastructure\\AzureFunctionPOC.Infrastructure.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEB46CC-D274-49BE-91D3-9856BCD3EEBD}|AzureFunctionPOC.Infrastructure\\AzureFunctionPOC.Infrastructure.csproj|solutionrelative:azurefunctionpoc.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2041B4E2-C114-4D3C-9AE9-99462EC25188}|AzureFunctionPOC.Shared\\AzureFunctionPOC.Shared.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2041B4E2-C114-4D3C-9AE9-99462EC25188}|AzureFunctionPOC.Shared\\AzureFunctionPOC.Shared.csproj|solutionrelative:azurefunctionpoc.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2041B4E2-C114-4D3C-9AE9-99462EC25188}|AzureFunctionPOC.Shared\\AzureFunctionPOC.Shared.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.shared\\azurefunctionpoc.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2041B4E2-C114-4D3C-9AE9-99462EC25188}|AzureFunctionPOC.Shared\\AzureFunctionPOC.Shared.csproj|solutionrelative:azurefunctionpoc.shared\\azurefunctionpoc.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEB46CC-D274-49BE-91D3-9856BCD3EEBD}|AzureFunctionPOC.Infrastructure\\AzureFunctionPOC.Infrastructure.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEB46CC-D274-49BE-91D3-9856BCD3EEBD}|AzureFunctionPOC.Infrastructure\\AzureFunctionPOC.Infrastructure.csproj|solutionrelative:azurefunctionpoc.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5B0426-BD7C-42EA-A9B4-8A9D0EC439E5}|AzureFunctionPOC.Application\\AzureFunctionPOC.Application.csproj|c:\\users\\waseem.ahmad\\onedrive - protiviti member firm\\desktop\\test\\console\\azurefunctionpoc\\azurefunctionpoc.api\\azurefunctionpoc.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5B0426-BD7C-42EA-A9B4-8A9D0EC439E5}|AzureFunctionPOC.Application\\AzureFunctionPOC.Application.csproj|solutionrelative:azurefunctionpoc.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Api\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Api\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Api\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Api\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:24:51.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Api\\host.json",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Api\\host.json",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Api\\host.json",
+              "RelativeToolTip": "AzureFunctionPOC.Api\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T09:17:25.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Api\\Program.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:19:43.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Api\\local.settings.json",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Api\\local.settings.json",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Api\\local.settings.json",
+              "RelativeToolTip": "AzureFunctionPOC.Api\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T07:02:34.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductFunction.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Api\\Functions\\ProductFunction.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Api\\Functions\\ProductFunction.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Api\\Functions\\ProductFunction.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Api\\Functions\\ProductFunction.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwEwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:09:06.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:15:06.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:08:30.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:19:13.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Shared\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Shared\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Shared\\Models\\ProductDto.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Shared\\Models\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:16:00.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Infrastructure\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Infrastructure\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Infrastructure\\Entities\\Product.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Infrastructure\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:04:54.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:03:42.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:05:27.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AzureFunctionPOC.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Shared\\AzureFunctionPOC.Shared.csproj",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Shared\\AzureFunctionPOC.Shared.csproj",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Shared\\AzureFunctionPOC.Shared.csproj",
+              "RelativeToolTip": "AzureFunctionPOC.Shared\\AzureFunctionPOC.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-15T06:46:38.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Shared\\Class1.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:11:13.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:10:22.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "AzureFunctionPOC.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\waseem.ahmad\\OneDrive - Protiviti Member Firm\\Desktop\\Test\\console\\AzureFunctionPOC\\AzureFunctionPOC.Api\\AzureFunctionPOC.Application\\Class1.cs",
+              "RelativeToolTip": "AzureFunctionPOC.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:10:00.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

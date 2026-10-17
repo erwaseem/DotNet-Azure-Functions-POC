@@ -1,0 +1,17 @@
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\bin\Debug\net8.0\AzureFunctionPOC.Infrastructure.deps.json
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\bin\Debug\net8.0\AzureFunctionPOC.Infrastructure.dll
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\bin\Debug\net8.0\AzureFunctionPOC.Infrastructure.pdb
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\bin\Debug\net8.0\AzureFunctionPOC.Shared.dll
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\bin\Debug\net8.0\AzureFunctionPOC.Shared.pdb
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\AzureFunctionPOC.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\AzureFunctionPOC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\AzureFunctionPOC.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\AzureFunctionPOC.Infrastructure.AssemblyInfo.cs
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\AzureFunctionPOC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\AzureFun.2C4E3B23.Up2Date
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\AzureFunctionPOC.Infrastructure.dll
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\refint\AzureFunctionPOC.Infrastructure.dll
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\AzureFunctionPOC.Infrastructure.pdb
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\ref\AzureFunctionPOC.Infrastructure.dll
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\bin\Debug\net8.0\AzureFunctionPOC.Infrastructure.runtimeconfig.json
+C:\Users\waseem.ahmad\OneDrive - Protiviti Member Firm\Desktop\Test\console\AzureFunctionPOC\AzureFunctionPOC.Api\AzureFunctionPOC.Infrastructure\obj\Debug\net8.0\AzureFunctionPOC.Infrastructure.genruntimeconfig.cache
